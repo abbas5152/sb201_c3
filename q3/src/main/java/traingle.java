@@ -8,7 +8,7 @@ public class triangle implements shape {
 		System.out.println("triangle generated");
 	}
 
-	public void go() {
+	public void so() {
 		// TODO Auto-generated method stub
 		start();
 		
